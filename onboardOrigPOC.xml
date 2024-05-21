@@ -2,9 +2,9 @@
      <id>g2070a95b0ea2</id>
      <name>OnboardingOriginationPOC</name>
      <provider>MambuSE</provider>
-     <description>Mockup Customer Onboarding + Origination component</description>
+     <description>Mockup Customer Onboarding + Origination  component</description>
      <extensionpoint>
-          <location>GROUP_VIEW</location>
+          <location>EXTENSION_MENU</location>
           <label>OnboardingOrigination Mock UI</label>
           <url>http://localhost:3000/</url>
      </extensionpoint>
