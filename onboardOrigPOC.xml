@@ -1,0 +1,11 @@
+<app>
+     <id>g2070a95b0ea2</id>
+     <name>Onboarding+Origination POC</name>
+     <provider>Mambu SE</provider>
+     <description>Mockup Customer Onboarding + Origination component</description>
+     <extensionpoint>
+          <location>GROUP_VIEW</location>
+          <label>Onboarding+Origination Mock UI</label>
+          <url>http://localhost:3000/</url>
+     </extensionpoint>
+</app>
