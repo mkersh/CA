@@ -5,7 +5,7 @@
      <description>Mockup Customer Onboarding + Origination  component</description>
      <extensionpoint>
           <location>EXTENSION_MENU</location>
-          <label>OnboardingOrigination Mock UI</label>
-          <url>http://localhost:3000/</url>
+          <label>MF Apps</label>
+          <url>http://localhost:3000/MainMenu</url>
      </extensionpoint>
 </app>
